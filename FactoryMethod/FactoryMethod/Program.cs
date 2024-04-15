@@ -23,7 +23,6 @@ namespace FactoryMethod
                 return;
 
             creator.CreateGame().Play();
-                
         }
     }
 
