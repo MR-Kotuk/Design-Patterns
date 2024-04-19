@@ -27,8 +27,8 @@ namespace Builder
 
             string typeOfGame = Console.ReadLine();
 
-            var director = new Director();
-            var builder = new GameBuilder();
+            Director director = new Director();
+            GameBuilder builder = new GameBuilder();
 
             director.SetBuilder(builder);
 
@@ -102,7 +102,7 @@ namespace Builder
 
         public Game GetGame()
         {
-            var game = _game;
+            Game game = _game;
 
             Reset();
 

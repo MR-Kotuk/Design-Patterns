@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\Users\Taras Sliusar\Design Patterns\Prototype\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
