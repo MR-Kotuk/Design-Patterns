@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.exe
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.dll
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\bin\Debug\net5.0\ref\Singleton.dll
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.pdb
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.dll
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\obj\Debug\net5.0\ref\Singleton.dll
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.pdb
+C:\Users\Taras Sliusar\Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
