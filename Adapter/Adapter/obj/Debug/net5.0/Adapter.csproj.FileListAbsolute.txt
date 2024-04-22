@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.exe
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.dll
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\bin\Debug\net5.0\Adapter.pdb
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.dll
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.pdb
+C:\Users\Taras Sliusar\Design Patterns\Adapter\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
