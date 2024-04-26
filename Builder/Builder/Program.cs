@@ -126,7 +126,7 @@ namespace Builder
         {
             string result = string.Empty;
 
-            for(int i = 0; i < _parts.Count; i++)
+            for (int i = 0; i < _parts.Count; i++)
                 result += _parts[i];
 
             return result;

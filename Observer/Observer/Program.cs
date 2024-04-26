@@ -31,7 +31,7 @@ namespace Observer
                 Console.WriteLine("I don't know this player state");
 
             Console.WriteLine("------------- \n Press Escape to exit, or any other button to continue");
-            
+
             ConsoleKeyInfo key = Console.ReadKey();
             Console.Clear();
 
@@ -57,7 +57,7 @@ namespace Observer
 
         public void AddSubscriber(ISubscriber subscriber)
         {
-            if(_subscribers != null && !_subscribers.Contains(subscriber))
+            if (_subscribers != null && !_subscribers.Contains(subscriber))
                 _subscribers.Add(subscriber);
         }
 

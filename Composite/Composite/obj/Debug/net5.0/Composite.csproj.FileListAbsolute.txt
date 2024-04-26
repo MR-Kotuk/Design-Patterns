@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\obj\Debug\net5.0\Composite.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\obj\Debug\net5.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\obj\Debug\net5.0\Composite.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\obj\Debug\net5.0\Composite.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\obj\Debug\net5.0\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\bin\Debug\net5.0\Composite.exe
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\bin\Debug\net5.0\Composite.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\bin\Debug\net5.0\Composite.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\bin\Debug\net5.0\Composite.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\bin\Debug\net5.0\Composite.dll
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\bin\Debug\net5.0\ref\Composite.dll
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\bin\Debug\net5.0\Composite.pdb
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\obj\Debug\net5.0\Composite.dll
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\obj\Debug\net5.0\ref\Composite.dll
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\obj\Debug\net5.0\Composite.pdb
+C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\obj\Debug\net5.0\Composite.genruntimeconfig.cache

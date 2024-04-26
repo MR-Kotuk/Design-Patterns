@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taras Sliusar\\Design Patterns\\Observer\\Observer\\Observer.csproj",
-      "projectName": "Observer",
-      "projectPath": "C:\\Users\\Taras Sliusar\\Design Patterns\\Observer\\Observer\\Observer.csproj",
+      "projectUniqueName": "C:\\Users\\Taras Sliusar\\Design Patterns\\Composite\\Composite\\Composite.csproj",
+      "projectName": "Composite",
+      "projectPath": "C:\\Users\\Taras Sliusar\\Design Patterns\\Composite\\Composite\\Composite.csproj",
       "packagesPath": "C:\\Users\\Taras Sliusar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Taras Sliusar\\Design Patterns\\Observer\\Observer\\obj\\",
+      "outputPath": "C:\\Users\\Taras Sliusar\\Design Patterns\\Composite\\Composite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -16,7 +16,7 @@ namespace Bridge
         private const string _radio = "Radio";
 
         private const string _remote = "Remote";
-        private const string _advanceRemote = "Advanced Remote";
+        private const string _advancedRemote = "Advanced Remote";
 
         private const string _yes = "Yes";
         private const string _no = "No";
@@ -28,7 +28,7 @@ namespace Bridge
 
         private void Input()
         {
-            Console.WriteLine($"Select remote ({_remote} or {_advanceRemote}): ");
+            Console.WriteLine($"Select remote ({_remote} or {_advancedRemote}): ");
 
             string remoteType = Console.ReadLine();
 
@@ -52,9 +52,9 @@ namespace Bridge
                 Remote remote = new Remote(device);
                 Console.WriteLine($"{deviceType} {remote.GetEnable()}");
             }
-            else if (remoteType == _advanceRemote)
+            else if (remoteType == _advancedRemote)
             {
-                AdvancedRemove remote = new AdvancedRemove(device);
+                AdvancedRemote remote = new AdvancedRemote(device);
 
                 Console.WriteLine($"Switch device enable ({_yes}/{_no})?");
 
@@ -94,9 +94,9 @@ namespace Bridge
         }
     }
 
-    public class AdvancedRemove : Remote
+    public class AdvancedRemote : Remote
     {
-        public AdvancedRemove(IDevice device) : base(device)
+        public AdvancedRemote(IDevice device) : base(device)
         {
         }
 

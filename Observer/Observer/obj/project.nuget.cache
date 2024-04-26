@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zNV+IFkOT4LfmRJG+cLanZbsfpkAESnGxmMTtLRW5Hl/BQEcCvtmOjwIjFdkPPnVJFAE2tozLBVyTQTCXO+UoA==",
+  "dgSpecHash": "HWYqPRzVHZvWMJPAaQaWHncKyqdtVL0Df0FRvNQRIgV78RdcH7yJx5UEWfE0p5h1sva8hh9lek09F0MHYTrQmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Taras Sliusar\\Example\\Patterns\\Observer\\Observer\\Observer.csproj",
+  "projectFilePath": "C:\\Users\\Taras Sliusar\\Design Patterns\\Observer\\Observer\\Observer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

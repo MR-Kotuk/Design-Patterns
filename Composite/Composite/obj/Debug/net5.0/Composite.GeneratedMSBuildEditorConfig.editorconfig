@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Observer
-build_property.ProjectDir = C:\Users\Taras Sliusar\Design Patterns\Observer\Observer\
+build_property.RootNamespace = Composite
+build_property.ProjectDir = C:\Users\Taras Sliusar\Design Patterns\Composite\Composite\
