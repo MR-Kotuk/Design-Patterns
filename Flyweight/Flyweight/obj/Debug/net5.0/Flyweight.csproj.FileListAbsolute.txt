@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\bin\Debug\net5.0\Flyweight.exe
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\bin\Debug\net5.0\Flyweight.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\bin\Debug\net5.0\Flyweight.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\bin\Debug\net5.0\Flyweight.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\bin\Debug\net5.0\Flyweight.dll
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\bin\Debug\net5.0\ref\Flyweight.dll
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\bin\Debug\net5.0\Flyweight.pdb
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\obj\Debug\net5.0\Flyweight.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\obj\Debug\net5.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\obj\Debug\net5.0\Flyweight.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\obj\Debug\net5.0\Flyweight.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\obj\Debug\net5.0\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\obj\Debug\net5.0\Flyweight.dll
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\obj\Debug\net5.0\ref\Flyweight.dll
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\obj\Debug\net5.0\Flyweight.pdb
+C:\Users\Taras Sliusar\Design Patterns\Flyweight\Flyweight\obj\Debug\net5.0\Flyweight.genruntimeconfig.cache
