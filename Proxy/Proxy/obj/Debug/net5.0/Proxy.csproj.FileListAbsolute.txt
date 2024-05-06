@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\bin\Debug\net5.0\Proxy.exe
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\bin\Debug\net5.0\Proxy.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\bin\Debug\net5.0\Proxy.dll
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\bin\Debug\net5.0\ref\Proxy.dll
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\bin\Debug\net5.0\Proxy.pdb
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\obj\Debug\net5.0\Proxy.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\obj\Debug\net5.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\obj\Debug\net5.0\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\obj\Debug\net5.0\Proxy.dll
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\obj\Debug\net5.0\ref\Proxy.dll
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\obj\Debug\net5.0\Proxy.pdb
+C:\Users\Taras Sliusar\Design Patterns\Proxy\Proxy\obj\Debug\net5.0\Proxy.genruntimeconfig.cache
