@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.exe
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.dll
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\bin\Debug\net5.0\ref\Chain of Responsibility.dll
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\bin\Debug\net5.0\Chain of Responsibility.pdb
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.dll
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\obj\Debug\net5.0\ref\Chain of Responsibility.dll
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.pdb
+C:\Users\Taras Sliusar\Design Patterns\Chain of Responsibility\Chain of Responsibility\obj\Debug\net5.0\Chain of Responsibility.genruntimeconfig.cache
