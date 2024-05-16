@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.exe
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.dll
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\bin\Debug\net5.0\ref\Memento.dll
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\bin\Debug\net5.0\Memento.pdb
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.dll
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\obj\Debug\net5.0\ref\Memento.dll
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.pdb
+C:\Users\Taras Sliusar\Design Patterns\Memento\Memento\obj\Debug\net5.0\Memento.genruntimeconfig.cache
