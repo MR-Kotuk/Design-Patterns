@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\State\State\bin\Debug\net5.0\State.exe
+C:\Users\Taras Sliusar\Design Patterns\State\State\bin\Debug\net5.0\State.deps.json
+C:\Users\Taras Sliusar\Design Patterns\State\State\bin\Debug\net5.0\State.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\State\State\bin\Debug\net5.0\State.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\State\State\bin\Debug\net5.0\State.dll
+C:\Users\Taras Sliusar\Design Patterns\State\State\bin\Debug\net5.0\ref\State.dll
+C:\Users\Taras Sliusar\Design Patterns\State\State\bin\Debug\net5.0\State.pdb
+C:\Users\Taras Sliusar\Design Patterns\State\State\obj\Debug\net5.0\State.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\State\State\obj\Debug\net5.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\State\State\obj\Debug\net5.0\State.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\State\State\obj\Debug\net5.0\State.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\State\State\obj\Debug\net5.0\State.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\State\State\obj\Debug\net5.0\State.dll
+C:\Users\Taras Sliusar\Design Patterns\State\State\obj\Debug\net5.0\ref\State.dll
+C:\Users\Taras Sliusar\Design Patterns\State\State\obj\Debug\net5.0\State.pdb
+C:\Users\Taras Sliusar\Design Patterns\State\State\obj\Debug\net5.0\State.genruntimeconfig.cache

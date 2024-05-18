@@ -32,14 +32,18 @@ namespace Memento
 
                 string line = Console.ReadLine();
 
-                if (line == _undoOperation)
-                    careTaker.Undo();
-                else if (line == _showHistory)
-                    careTaker.ShowHistory();
-                else
+                switch (line)
                 {
-                    redactor.DoAnyOperation(line);
-                    careTaker.Backup();
+                    case _undoOperation:
+                        careTaker.Undo();
+                        break;
+                    case _showHistory:
+                        careTaker.ShowHistory();
+                        break;
+                    default:
+                        redactor.DoAnyOperation(line);
+                        careTaker.Backup();
+                        break;
                 }
 
                 Console.WriteLine();
@@ -70,7 +74,7 @@ namespace Memento
         public void DoAnyOperation(string operation)
         {
             _state = operation;
-            Console.WriteLine($"Redactor {operation}");
+            Console.WriteLine($"Redactor {_state}");
         }
     }
 
