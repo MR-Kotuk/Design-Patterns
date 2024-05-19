@@ -74,7 +74,10 @@ namespace State
 
         public void SwitchContext()
         {
-            _context = _state.SwitchContext();
+            string newContext = _state.SwitchContext();
+
+            if (newContext != null)
+                _context = newContext;
         }
 
         public void ReturnToDrafting()
@@ -113,7 +116,9 @@ namespace State
         public abstract void Publish();
 
         public virtual void ReturnToDrafting() { }
+
         public virtual void ReturnToModeration() { }
+
         public virtual string SwitchContext() { return null; }
     }
 
