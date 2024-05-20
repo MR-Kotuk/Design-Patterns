@@ -35,7 +35,7 @@ namespace State
                 else if (answer == "2")
                     _document.SwitchContext();
                 else if (answer == "3")
-                    _document.Publich();
+                    _document.Publish();
                 else if (answer == "4")
                     _document.ReturnToDrafting();
                 else if (answer == "5")
@@ -67,7 +67,7 @@ namespace State
             _state.WriteCurrentContext();
         }
 
-        public void Publich()
+        public void Publish()
         {
             _state.Publish();
         }

@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\bin\Debug\net5.0\Template Method.exe
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\bin\Debug\net5.0\Template Method.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\bin\Debug\net5.0\Template Method.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\bin\Debug\net5.0\Template Method.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\bin\Debug\net5.0\Template Method.dll
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\bin\Debug\net5.0\ref\Template Method.dll
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\bin\Debug\net5.0\Template Method.pdb
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\obj\Debug\net5.0\Template Method.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\obj\Debug\net5.0\Template Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\obj\Debug\net5.0\Template Method.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\obj\Debug\net5.0\Template Method.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\obj\Debug\net5.0\Template Method.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\obj\Debug\net5.0\Template Method.dll
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\obj\Debug\net5.0\ref\Template Method.dll
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\obj\Debug\net5.0\Template Method.pdb
+C:\Users\Taras Sliusar\Design Patterns\Template Method\Template Method\obj\Debug\net5.0\Template Method.genruntimeconfig.cache
