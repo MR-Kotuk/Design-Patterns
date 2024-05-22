@@ -1,0 +1,16 @@
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\bin\Debug\net5.0\Visitor.exe
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\bin\Debug\net5.0\Visitor.deps.json
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.json
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.dev.json
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\bin\Debug\net5.0\Visitor.dll
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\bin\Debug\net5.0\ref\Visitor.dll
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\bin\Debug\net5.0\Visitor.pdb
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\obj\Debug\net5.0\Visitor.csproj.AssemblyReference.cache
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\obj\Debug\net5.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfo.cs
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\obj\Debug\net5.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\obj\Debug\net5.0\Visitor.dll
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\obj\Debug\net5.0\ref\Visitor.dll
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\obj\Debug\net5.0\Visitor.pdb
+C:\Users\Taras Sliusar\Design Patterns\Visitor\Visitor\obj\Debug\net5.0\Visitor.genruntimeconfig.cache
